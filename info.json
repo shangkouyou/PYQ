@@ -1,0 +1,217 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/index.html",
+            "path": "index.html",
+            "saved": true,
+            "size": 15246,
+            "children": [
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/1_bg.png",
+                    "path": "img/1_bg.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/2_c.png",
+                    "path": "img/2_c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/3_l.png",
+                    "path": "img/3_l.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/4_a1.jpg",
+                    "path": "img/4_a1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/5_c1.jpg",
+                    "path": "img/5_c1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/6_c.png",
+                    "path": "img/6_c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/8_a2.jpg",
+                    "path": "img/8_a2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/12_a5.png",
+                    "path": "img/12_a5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/13_ads.png",
+                    "path": "img/13_ads.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/15_c6.png",
+                    "path": "img/15_c6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/58_n5.jpg",
+                    "path": "img/58_n5.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/14.png",
+                    "path": "img/14.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/23_a4.jpg",
+                    "path": "img/23_a4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/a1.jpg",
+                    "path": "img/a1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/a2.jpg",
+                    "path": "img/a2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/30_a7.jpg",
+                    "path": "img/30_a7.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/31_c8.png",
+                    "path": "img/31_c8.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/css/jquery-1.8.3.min.js",
+                    "path": "js/jquery-1.8.3.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/css/1_style.css",
+                    "path": "css/1_style.css",
+                    "saved": true,
+                    "size": 4982,
+                    "children": [
+                        {
+                            "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/picture/guide.png",
+                            "path": "img/guide.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "www-17sucai-com-13zrwud",
+    "info": {
+        "remark": [],
+        "title": "我的朋友圈",
+        "domain": "www.17sucai.com",
+        "origin": "https://www.17sucai.com",
+        "ip": "114.80.187.8",
+        "main": "index.html",
+        "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/index.html",
+        "totalSize": "20.2 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.17sucai.com/preview/189642/2016-03-29/ku/index.html",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.17sucai.com/preview/189642/2016-03-29/ku/index.html",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "Tengine",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding, Accept-Encoding",
+                "date": "Sun, 15 May 2022 06:50:42 GMT",
+                "last-modified": "Thu, 31 Mar 2016 03:12:33 GMT",
+                "etag": "\"56fc95a1-5795\"",
+                "strict-transport-security": "max-age=31536000",
+                "ali-swift-global-savetime": "1652597442",
+                "via": "cache58.l2cn3037[81,81,200-0,M], cache44.l2cn3037[82,0], cache44.l2cn3037[83,0], kunlun7.cn2364[92,92,200-0,M], kunlun2.cn2364[94,0]",
+                "x-cache": "MISS TCP_MISS dirn:-2:-2",
+                "x-swift-savetime": "Sun, 15 May 2022 06:50:42 GMT",
+                "x-swift-cachetime": "0",
+                "timing-allow-origin": "*",
+                "eagleid": "7250bb1616525974421453285e"
+            }
+        },
+        "time": {
+            "start": "2022-05-15T06:50:40.810Z",
+            "end": "2022-05-15T06:50:59.836Z"
+        }
+    },
+    "options": {
+        "url": "https://www.17sucai.com/preview/189642/2016-03-29/ku/index.html",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
